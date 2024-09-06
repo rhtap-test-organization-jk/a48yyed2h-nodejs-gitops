@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a48yyed2h-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/a48yyed2h-nodejs
